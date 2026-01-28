@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/Wh1teT1ger/spring-boot-project-99/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Wh1teT1ger/spring-boot-project-99/actions)
